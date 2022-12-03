@@ -8,3 +8,10 @@ Online shop is currently launching a new service. The service will allow the cli
 Classification of clients' comments using BERT neural network.
 
 ### Quality Metric: F1-measure >= 0.75.
+
+### Key Python Libraries for NLP
+- from nltk.corpus import stopwords as nltk_stopwords
+- from nltk.stem.wordnet import WordNetLemmatizer
+- from sklearn.feature_extraction.text import CountVectorizer
+- from sklearn.feature_extraction.text import TfidfVectorizer
+
