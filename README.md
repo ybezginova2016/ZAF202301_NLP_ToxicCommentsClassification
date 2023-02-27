@@ -23,5 +23,3 @@ The project goal is to build a machine learning algorithm for a binary text clas
 - from nltk.stem.wordnet import WordNetLemmatizer
 - from sklearn.feature_extraction.text import CountVectorizer
 - from sklearn.feature_extraction.text import TfidfVectorizer
-
-#### Code: https://github.com/ybezginova2016/01_NLP_CommentClassification/blob/main/main_01_NLP_ToxicComments.ipynb
