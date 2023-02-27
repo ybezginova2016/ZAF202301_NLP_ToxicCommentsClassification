@@ -1,4 +1,4 @@
-# 01_NLP_CommentClassification
+# 01_NLP_CommentsClassification
 
 ## Project Description
 
