@@ -23,3 +23,5 @@ The project goal is to build a machine learning algorithm for a binary text clas
 - from nltk.stem.wordnet import WordNetLemmatizer
 - from sklearn.feature_extraction.text import CountVectorizer
 - from sklearn.feature_extraction.text import TfidfVectorizer
+
+Link to the Demo Video : https://drive.google.com/file/d/11NlCNEasBOR2mrRaO6LrIFOZYF92PZHP/view?usp=sharing
